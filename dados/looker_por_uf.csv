@@ -1,0 +1,596 @@
+﻿UF,Setor,Saldo Total,Salario Medio
+AC,Administração Pública,-860,2237.88
+AC,Agropecuária,361,1796.1
+AC,Alimentação e Hospedagem,517,1513.03
+AC,Artes e Cultura,330,2054.55
+AC,Atividades Imobiliárias,303,1769.16
+AC,Comércio Varejista,4248,3822.77
+AC,Construção Civil,2639,2043.34
+AC,Educação,254,3596.52
+AC,Energia Elétrica e Gás,362,5021.31
+AC,Indústria Extrativa,23,1718.09
+AC,Indústria de Transformação,1429,1854.87
+AC,Não informado,5,1664.71
+AC,Outros Serviços,307,2436
+AC,Saúde e Serviços Sociais,724,2313.04
+AC,Serviços Administrativos,9359,2000.52
+AC,Serviços Domésticos,2,1421.57
+AC,Serviços Financeiros,-131,2733.8
+AC,Serviços Profissionais,1117,2638.05
+AC,Tecnologia e Comunicação,337,2034.54
+AC,Transporte e Armazenagem,701,5191.57
+AC,Água e Saneamento,34,2205.92
+AL,Administração Pública,1061,3798.23
+AL,Agropecuária,-544,2465.12
+AL,Alimentação e Hospedagem,6423,2273.93
+AL,Artes e Cultura,687,2295.17
+AL,Atividades Imobiliárias,1290,2068.9
+AL,Comércio Varejista,17459,2645.07
+AL,Construção Civil,12206,2677.61
+AL,Educação,1126,4074.82
+AL,Energia Elétrica e Gás,1010,3870.77
+AL,Indústria Extrativa,1055,4323.89
+AL,Indústria de Transformação,10702,6633.25
+AL,Não informado,2,1633.36
+AL,Outros Serviços,490,3707.78
+AL,Saúde e Serviços Sociais,2137,3028.69
+AL,Serviços Administrativos,7093,2518.44
+AL,Serviços Domésticos,-3,1394.33
+AL,Serviços Financeiros,866,3314.99
+AL,Serviços Profissionais,3392,2948.84
+AL,Tecnologia e Comunicação,827,2815.92
+AL,Transporte e Armazenagem,3333,2144.84
+AL,Água e Saneamento,1796,2918.44
+AM,Administração Pública,486,18767.53
+AM,Agropecuária,12,2908.69
+AM,Alimentação e Hospedagem,6693,1968.92
+AM,Artes e Cultura,1008,18826.17
+AM,Atividades Imobiliárias,318,2793.55
+AM,Comércio Varejista,24181,2939.38
+AM,Construção Civil,7968,3111.9
+AM,Educação,1842,3100.77
+AM,Energia Elétrica e Gás,-383,4929.47
+AM,Indústria Extrativa,291,5121.1
+AM,Indústria de Transformação,32058,5457.8
+AM,Não informado,-9,1699.12
+AM,Organismos Internacionais,-1,3256.78
+AM,Outros Serviços,3921,3149.37
+AM,Saúde e Serviços Sociais,4543,3449.35
+AM,Serviços Administrativos,26035,2477.26
+AM,Serviços Domésticos,-15,3500.84
+AM,Serviços Financeiros,779,4094.81
+AM,Serviços Profissionais,5935,4493.83
+AM,Tecnologia e Comunicação,2712,4168.2
+AM,Transporte e Armazenagem,8186,3637.46
+AM,Água e Saneamento,985,4268.08
+AP,Administração Pública,29,5819.51
+AP,Agropecuária,382,2167.97
+AP,Alimentação e Hospedagem,722,1558.92
+AP,Artes e Cultura,201,1626.1
+AP,Atividades Imobiliárias,185,1509.54
+AP,Comércio Varejista,4223,1844.37
+AP,Construção Civil,1139,2241.74
+AP,Educação,1473,6909.75
+AP,Energia Elétrica e Gás,-62,5397.08
+AP,Indústria Extrativa,-220,6643.04
+AP,Indústria de Transformação,970,2266.38
+AP,Outros Serviços,-69,2118.58
+AP,Saúde e Serviços Sociais,806,2427.09
+AP,Serviços Administrativos,5134,1892.42
+AP,Serviços Domésticos,13,2658.29
+AP,Serviços Financeiros,96,3435.12
+AP,Serviços Profissionais,435,2368.02
+AP,Tecnologia e Comunicação,137,2134.58
+AP,Transporte e Armazenagem,351,2145.63
+AP,Água e Saneamento,742,3542.83
+BA,Administração Pública,3728,3094.49
+BA,Agropecuária,22554,3270.24
+BA,Alimentação e Hospedagem,18471,2131.43
+BA,Artes e Cultura,3033,155137.16
+BA,Atividades Imobiliárias,2874,2107.5
+BA,Comércio Varejista,68828,2380.67
+BA,Construção Civil,34224,4641.09
+BA,Educação,7062,4230.63
+BA,Energia Elétrica e Gás,480,4984.13
+BA,Indústria Extrativa,4816,6098.94
+BA,Indústria de Transformação,47944,3704.45
+BA,Não informado,-4,3204.29
+BA,Organismos Internacionais,0,5044.52
+BA,Outros Serviços,6525,2750.99
+BA,Saúde e Serviços Sociais,41715,2747.87
+BA,Serviços Administrativos,46051,2472.38
+BA,Serviços Domésticos,-14,4995.77
+BA,Serviços Financeiros,521,3369.16
+BA,Serviços Profissionais,17697,3136.38
+BA,Tecnologia e Comunicação,9851,3765.79
+BA,Transporte e Armazenagem,25598,2799.12
+BA,Água e Saneamento,3028,3802.28
+CE,Administração Pública,527,4466.47
+CE,Agropecuária,4828,5898.07
+CE,Alimentação e Hospedagem,14681,2732.09
+CE,Artes e Cultura,3667,3878.39
+CE,Atividades Imobiliárias,1491,3556.12
+CE,Comércio Varejista,64066,3649.88
+CE,Construção Civil,33191,3425.22
+CE,Educação,8615,5023.62
+CE,Energia Elétrica e Gás,982,6034.29
+CE,Indústria Extrativa,1175,3527.36
+CE,Indústria de Transformação,38958,4121
+CE,Não informado,-3,1611.08
+CE,Organismos Internacionais,0,3116.98
+CE,Outros Serviços,5367,2918.6
+CE,Saúde e Serviços Sociais,22112,3506.37
+CE,Serviços Administrativos,56732,3446.06
+CE,Serviços Domésticos,-2,1927.11
+CE,Serviços Financeiros,4098,4783.12
+CE,Serviços Profissionais,16729,3929.71
+CE,Tecnologia e Comunicação,15035,3559.14
+CE,Transporte e Armazenagem,6898,3319.78
+CE,Água e Saneamento,4947,6096.21
+DF,Administração Pública,-105,7024.19
+DF,Agropecuária,446,3250.17
+DF,Alimentação e Hospedagem,5358,1798.47
+DF,Artes e Cultura,2086,2066.63
+DF,Atividades Imobiliárias,279,2545.09
+DF,Comércio Varejista,20800,2413.5
+DF,Construção Civil,23423,11809.97
+DF,Educação,3992,3376.26
+DF,Energia Elétrica e Gás,-221,7909.97
+DF,Indústria Extrativa,77,4869.65
+DF,Indústria de Transformação,5946,2886.01
+DF,Organismos Internacionais,216,5863.06
+DF,Outros Serviços,5078,5251.21
+DF,Saúde e Serviços Sociais,36078,3698.34
+DF,Serviços Administrativos,29299,3944.33
+DF,Serviços Domésticos,17,4886.09
+DF,Serviços Financeiros,1694,5217.74
+DF,Serviços Profissionais,7350,4041.41
+DF,Tecnologia e Comunicação,15328,3864.08
+DF,Transporte e Armazenagem,2807,3265.18
+DF,Água e Saneamento,706,3933.03
+ES,Administração Pública,950,9916.95
+ES,Agropecuária,563,3049.2
+ES,Alimentação e Hospedagem,3856,2130.48
+ES,Artes e Cultura,1220,12608.27
+ES,Atividades Imobiliárias,631,2121.45
+ES,Comércio Varejista,39989,2317.46
+ES,Construção Civil,24069,3140.32
+ES,Educação,2307,3333.07
+ES,Energia Elétrica e Gás,322,5407.32
+ES,Indústria Extrativa,1026,5486.39
+ES,Indústria de Transformação,27206,3468.35
+ES,Não informado,-2,1794.96
+ES,Organismos Internacionais,0,1986.86
+ES,Outros Serviços,2124,2832.14
+ES,Saúde e Serviços Sociais,15013,2949.68
+ES,Serviços Administrativos,25558,2648.87
+ES,Serviços Domésticos,6,1518.54
+ES,Serviços Financeiros,1556,3847.02
+ES,Serviços Profissionais,8643,3017.85
+ES,Tecnologia e Comunicação,3554,3596.15
+ES,Transporte e Armazenagem,9838,3462.9
+ES,Água e Saneamento,1006,2617.75
+GO,Administração Pública,-255,4608.64
+GO,Agropecuária,21433,3070.17
+GO,Alimentação e Hospedagem,12501,2221.9
+GO,Artes e Cultura,3117,2231.55
+GO,Atividades Imobiliárias,1055,2209.88
+GO,Comércio Varejista,55680,2701.89
+GO,Construção Civil,37579,2550.75
+GO,Educação,4791,3146.91
+GO,Energia Elétrica e Gás,759,4673.2
+GO,Indústria Extrativa,2172,4851.48
+GO,Indústria de Transformação,47576,3354.51
+GO,Não informado,-2,1831.3
+GO,Outros Serviços,5207,2589.4
+GO,Saúde e Serviços Sociais,21319,2936.13
+GO,Serviços Administrativos,46008,2706.83
+GO,Serviços Domésticos,34,1789.01
+GO,Serviços Financeiros,5539,3359.62
+GO,Serviços Profissionais,15325,2779.34
+GO,Tecnologia e Comunicação,5765,3052.42
+GO,Transporte e Armazenagem,20352,2425.81
+GO,Água e Saneamento,6960,3369.81
+MA,Administração Pública,379,2597.9
+MA,Agropecuária,8849,2972.66
+MA,Alimentação e Hospedagem,6396,3102.31
+MA,Artes e Cultura,1009,2377.35
+MA,Atividades Imobiliárias,907,3445.58
+MA,Comércio Varejista,39867,2945
+MA,Construção Civil,13553,3176.87
+MA,Educação,4038,4784.47
+MA,Energia Elétrica e Gás,341,5921.79
+MA,Indústria Extrativa,512,7073.94
+MA,Indústria de Transformação,11180,4088.16
+MA,Outros Serviços,6470,4552.49
+MA,Saúde e Serviços Sociais,14875,4210.85
+MA,Serviços Administrativos,15342,4806.61
+MA,Serviços Domésticos,2,17809.81
+MA,Serviços Financeiros,402,3648.5
+MA,Serviços Profissionais,5379,2708.54
+MA,Tecnologia e Comunicação,3332,4060.97
+MA,Transporte e Armazenagem,3193,4149.42
+MA,Água e Saneamento,1101,2554.32
+MG,Administração Pública,940,2982.7
+MG,Agropecuária,32443,6187.11
+MG,Alimentação e Hospedagem,31142,7663.85
+MG,Artes e Cultura,5349,4373.33
+MG,Atividades Imobiliárias,3976,2379.29
+MG,Comércio Varejista,110379,5080.53
+MG,Construção Civil,89323,4029.19
+MG,Educação,23233,2568.47
+MG,Energia Elétrica e Gás,157,5543.98
+MG,Indústria Extrativa,14312,5836.9
+MG,Indústria de Transformação,133761,11012.69
+MG,Não informado,-14,2621.97
+MG,Organismos Internacionais,-7,6711.2
+MG,Outros Serviços,14044,25849.15
+MG,Saúde e Serviços Sociais,67087,3023.91
+MG,Serviços Administrativos,118141,3712.35
+MG,Serviços Domésticos,-16,1712.6
+MG,Serviços Financeiros,13141,4098.49
+MG,Serviços Profissionais,51247,7049.5
+MG,Tecnologia e Comunicação,30055,3865.39
+MG,Transporte e Armazenagem,44934,2967.38
+MG,Água e Saneamento,1910,2983.81
+MS,Administração Pública,11,2917.61
+MS,Agropecuária,21359,3783.04
+MS,Alimentação e Hospedagem,3450,1715.41
+MS,Artes e Cultura,656,1776.94
+MS,Atividades Imobiliárias,230,2128.53
+MS,Comércio Varejista,26924,2822.1
+MS,Construção Civil,7528,2395.6
+MS,Educação,3272,3725.79
+MS,Energia Elétrica e Gás,261,4409.67
+MS,Indústria Extrativa,1903,3618.06
+MS,Indústria de Transformação,24401,3088.66
+MS,Não informado,-1,1514
+MS,Organismos Internacionais,1,1500
+MS,Outros Serviços,3263,2435.77
+MS,Saúde e Serviços Sociais,2563,2893.89
+MS,Serviços Administrativos,8140,2151.62
+MS,Serviços Domésticos,8,1775.97
+MS,Serviços Financeiros,2013,3173.87
+MS,Serviços Profissionais,6957,2936.47
+MS,Tecnologia e Comunicação,1943,2537.43
+MS,Transporte e Armazenagem,7815,2179.98
+MS,Água e Saneamento,491,3406.23
+MT,Administração Pública,-1031,11299.67
+MT,Agropecuária,32989,4034.06
+MT,Alimentação e Hospedagem,6804,1723.93
+MT,Artes e Cultura,1187,2456.17
+MT,Atividades Imobiliárias,779,2595.1
+MT,Comércio Varejista,44041,2674.79
+MT,Construção Civil,21020,13238.57
+MT,Educação,3314,3537.83
+MT,Energia Elétrica e Gás,1199,3950.53
+MT,Indústria Extrativa,3639,4183.9
+MT,Indústria de Transformação,22703,2999.11
+MT,Não informado,-1,2346.67
+MT,Outros Serviços,3635,3432.74
+MT,Saúde e Serviços Sociais,7910,2672.98
+MT,Serviços Administrativos,21940,2716.09
+MT,Serviços Domésticos,8,1891.85
+MT,Serviços Financeiros,4139,3641.31
+MT,Serviços Profissionais,8099,3103.19
+MT,Tecnologia e Comunicação,2272,2426.21
+MT,Transporte e Armazenagem,18293,2743.46
+MT,Água e Saneamento,753,2583.63
+PA,Administração Pública,-900,2528.67
+PA,Agropecuária,8120,3450.5
+PA,Alimentação e Hospedagem,9608,1911.32
+PA,Artes e Cultura,1735,2504.1
+PA,Atividades Imobiliárias,636,1820
+PA,Comércio Varejista,58930,16830
+PA,Construção Civil,31164,3179.78
+PA,Educação,4679,3420.15
+PA,Energia Elétrica e Gás,-42,36711.38
+PA,Indústria Extrativa,6246,5876.88
+PA,Indústria de Transformação,21417,3733.09
+PA,Não informado,-10,1845.61
+PA,Organismos Internacionais,0,3220.9
+PA,Outros Serviços,1977,3490.44
+PA,Saúde e Serviços Sociais,5431,3138.43
+PA,Serviços Administrativos,29596,2379.78
+PA,Serviços Domésticos,7,6708.63
+PA,Serviços Financeiros,1897,4426.4
+PA,Serviços Profissionais,9115,3119.04
+PA,Tecnologia e Comunicação,2625,2648.6
+PA,Transporte e Armazenagem,8546,2787.49
+PA,Água e Saneamento,102,2792.78
+PB,Administração Pública,-39,3753.17
+PB,Agropecuária,3453,2555
+PB,Alimentação e Hospedagem,5548,2539.45
+PB,Artes e Cultura,1051,4493.8
+PB,Atividades Imobiliárias,835,4311.48
+PB,Comércio Varejista,28264,2608.02
+PB,Construção Civil,24862,2614.39
+PB,Educação,-1335,4138.43
+PB,Energia Elétrica e Gás,72,5168.67
+PB,Indústria Extrativa,140,3857.2
+PB,Indústria de Transformação,7558,2821.87
+PB,Não informado,-8,2187.75
+PB,Outros Serviços,-2842,2665.19
+PB,Saúde e Serviços Sociais,6162,3233.03
+PB,Serviços Administrativos,26542,1762.99
+PB,Serviços Domésticos,-4,4749.01
+PB,Serviços Financeiros,206,3535.55
+PB,Serviços Profissionais,4809,2771.24
+PB,Tecnologia e Comunicação,2443,3251.37
+PB,Transporte e Armazenagem,691,2788.16
+PB,Água e Saneamento,196,2962.02
+PE,Administração Pública,2784,3608.81
+PE,Agropecuária,4044,2733.91
+PE,Alimentação e Hospedagem,17869,2353.21
+PE,Artes e Cultura,3966,2929.71
+PE,Atividades Imobiliárias,919,3257.4
+PE,Comércio Varejista,60927,3062.34
+PE,Construção Civil,21593,7554.39
+PE,Educação,5542,2965.16
+PE,Energia Elétrica e Gás,680,5763.5
+PE,Indústria Extrativa,529,2827.58
+PE,Indústria de Transformação,31945,3764.48
+PE,Não informado,5,2255.68
+PE,Organismos Internacionais,-3,5822.12
+PE,Outros Serviços,6572,2328.84
+PE,Saúde e Serviços Sociais,12920,2637.51
+PE,Serviços Administrativos,58626,3672.82
+PE,Serviços Domésticos,2,1954.84
+PE,Serviços Financeiros,463,4856.92
+PE,Serviços Profissionais,9727,2788.62
+PE,Tecnologia e Comunicação,6465,3905.45
+PE,Transporte e Armazenagem,6483,2990.11
+PE,Água e Saneamento,1928,4704.5
+PI,Administração Pública,170,297929832.1
+PI,Agropecuária,5225,2592.51
+PI,Alimentação e Hospedagem,4119,4335.43
+PI,Artes e Cultura,777,4449.78
+PI,Atividades Imobiliárias,244,2795.15
+PI,Comércio Varejista,24006,2916.01
+PI,Construção Civil,6916,2948.63
+PI,Educação,1035,5483.96
+PI,Energia Elétrica e Gás,-259,4558.66
+PI,Indústria Extrativa,652,4734.39
+PI,Indústria de Transformação,4479,4359.97
+PI,Outros Serviços,1682,6485.09
+PI,Saúde e Serviços Sociais,5560,4993.99
+PI,Serviços Administrativos,10469,4293.01
+PI,Serviços Domésticos,1,1360
+PI,Serviços Financeiros,1534,4175.37
+PI,Serviços Profissionais,3558,2471.55
+PI,Tecnologia e Comunicação,3168,3295.72
+PI,Transporte e Armazenagem,1548,3332.11
+PI,Água e Saneamento,431,5865.02
+PR,Administração Pública,5919,3170.84
+PR,Agropecuária,13997,3567.16
+PR,Alimentação e Hospedagem,15740,1913.63
+PR,Artes e Cultura,4430,14137.25
+PR,Atividades Imobiliárias,2788,2218
+PR,Comércio Varejista,115451,2518
+PR,Construção Civil,49154,108677.17
+PR,Educação,11935,2464.78
+PR,Energia Elétrica e Gás,-1977,6080.42
+PR,Indústria Extrativa,1201,4173.19
+PR,Indústria de Transformação,120122,3183.46
+PR,Não informado,-7,2189.96
+PR,Organismos Internacionais,0,6027.04
+PR,Outros Serviços,7452,2352.23
+PR,Saúde e Serviços Sociais,25989,2652.17
+PR,Serviços Administrativos,100368,2794.79
+PR,Serviços Domésticos,76,2983.58
+PR,Serviços Financeiros,6894,3620.92
+PR,Serviços Profissionais,25138,2988.16
+PR,Tecnologia e Comunicação,13059,3309.5
+PR,Transporte e Armazenagem,25334,2977.26
+PR,Água e Saneamento,1650,3354.84
+RJ,Administração Pública,12581,3639.43
+RJ,Agropecuária,78,2586.3
+RJ,Alimentação e Hospedagem,45923,2345.55
+RJ,Artes e Cultura,7396,4397.91
+RJ,Atividades Imobiliárias,2111,3662.83
+RJ,Comércio Varejista,91511,32573.74
+RJ,Construção Civil,67739,3974.26
+RJ,Educação,11151,3403.87
+RJ,Energia Elétrica e Gás,2466,6987.85
+RJ,Indústria Extrativa,11929,8759.73
+RJ,Indústria de Transformação,51284,9961.02
+RJ,Não informado,-5,2065.71
+RJ,Organismos Internacionais,-2,5428.39
+RJ,Outros Serviços,26039,4166.83
+RJ,Saúde e Serviços Sociais,48922,3102.04
+RJ,Serviços Administrativos,92995,4287.38
+RJ,Serviços Domésticos,35,3220.25
+RJ,Serviços Financeiros,2921,45045.08
+RJ,Serviços Profissionais,41777,9696.31
+RJ,Tecnologia e Comunicação,12403,4451.12
+RJ,Transporte e Armazenagem,14903,3827.13
+RJ,Água e Saneamento,9389,3358.41
+RN,Administração Pública,76,4621.31
+RN,Agropecuária,2137,2520.68
+RN,Alimentação e Hospedagem,6839,2515.42
+RN,Artes e Cultura,1312,3074.19
+RN,Atividades Imobiliárias,727,3095.17
+RN,Comércio Varejista,26459,3369.26
+RN,Construção Civil,18683,3033.43
+RN,Educação,2582,3903.4
+RN,Energia Elétrica e Gás,358,5278.98
+RN,Indústria Extrativa,2707,4948.19
+RN,Indústria de Transformação,11111,4472.1
+RN,Não informado,-6,1660.98
+RN,Outros Serviços,1428,8896.51
+RN,Saúde e Serviços Sociais,4485,3018.15
+RN,Serviços Administrativos,29782,2549.81
+RN,Serviços Domésticos,-20,1461.85
+RN,Serviços Financeiros,328,3795.82
+RN,Serviços Profissionais,4006,2924.61
+RN,Tecnologia e Comunicação,1318,4262.27
+RN,Transporte e Armazenagem,-37,3218.71
+RN,Água e Saneamento,1262,2893.98
+RO,Administração Pública,773,2411.92
+RO,Agropecuária,3982,2243.71
+RO,Alimentação e Hospedagem,916,1779.3
+RO,Artes e Cultura,439,2258.1
+RO,Atividades Imobiliárias,291,1706.53
+RO,Comércio Varejista,11612,2006.59
+RO,Construção Civil,326,2123.72
+RO,Educação,-62,3278.63
+RO,Energia Elétrica e Gás,287,4991.68
+RO,Indústria Extrativa,402,2935.86
+RO,Indústria de Transformação,4864,2569.25
+RO,Não informado,-4,2612.75
+RO,Outros Serviços,1297,2069.71
+RO,Saúde e Serviços Sociais,2206,2442.09
+RO,Serviços Administrativos,5833,19501.89
+RO,Serviços Domésticos,6,1687
+RO,Serviços Financeiros,2235,2848.34
+RO,Serviços Profissionais,2866,2858.08
+RO,Tecnologia e Comunicação,829,2555.54
+RO,Transporte e Armazenagem,2825,2254.95
+RO,Água e Saneamento,558,2345.53
+RR,Administração Pública,582,2848.76
+RR,Agropecuária,1196,2402.56
+RR,Alimentação e Hospedagem,12,1592.77
+RR,Artes e Cultura,37,1931.44
+RR,Atividades Imobiliárias,107,2002.44
+RR,Comércio Varejista,4616,1909.03
+RR,Construção Civil,1155,2964.13
+RR,Educação,134,6494.66
+RR,Energia Elétrica e Gás,141,4760.16
+RR,Indústria Extrativa,63,1716.92
+RR,Indústria de Transformação,595,1908.13
+RR,Organismos Internacionais,0,2423.56
+RR,Outros Serviços,521,3077.85
+RR,Saúde e Serviços Sociais,486,2753.17
+RR,Serviços Administrativos,4235,2226.86
+RR,Serviços Domésticos,-1,1320
+RR,Serviços Financeiros,206,3747.87
+RR,Serviços Profissionais,653,3684.62
+RR,Tecnologia e Comunicação,53,2349.23
+RR,Transporte e Armazenagem,357,1897.77
+RR,Água e Saneamento,129,3312.15
+RS,Administração Pública,444,3331.02
+RS,Agropecuária,11270,3146.07
+RS,Alimentação e Hospedagem,2611,1920.42
+RS,Artes e Cultura,4084,3102.18
+RS,Atividades Imobiliárias,1019,2430.47
+RS,Comércio Varejista,75118,2743.61
+RS,Construção Civil,20744,2610.77
+RS,Educação,10211,2886.27
+RS,Energia Elétrica e Gás,-676,5999.37
+RS,Indústria Extrativa,521,3241.54
+RS,Indústria de Transformação,68303,4509.58
+RS,Não informado,-1,1573.9
+RS,Organismos Internacionais,2,5422.33
+RS,Outros Serviços,4241,2672.44
+RS,Saúde e Serviços Sociais,33130,4040
+RS,Serviços Administrativos,57846,2991.61
+RS,Serviços Domésticos,76,1531.33
+RS,Serviços Financeiros,5875,4145.1
+RS,Serviços Profissionais,20076,3008.28
+RS,Tecnologia e Comunicação,19935,5156.54
+RS,Transporte e Armazenagem,7441,2801.95
+RS,Água e Saneamento,1011,3037.81
+SC,Administração Pública,1393,2604.78
+SC,Agropecuária,3650,2740.45
+SC,Alimentação e Hospedagem,9296,1959.4
+SC,Artes e Cultura,5088,2212.76
+SC,Atividades Imobiliárias,2448,2476.27
+SC,Comércio Varejista,91262,2359.08
+SC,Construção Civil,38432,2804.01
+SC,Educação,9391,3484.06
+SC,Energia Elétrica e Gás,841,4072.76
+SC,Indústria Extrativa,1107,3179.9
+SC,Indústria de Transformação,101247,3231.95
+SC,Não informado,5,3148.66
+SC,Organismos Internacionais,0,3839.68
+SC,Outros Serviços,6240,2564.7
+SC,Saúde e Serviços Sociais,31245,2744.47
+SC,Serviços Administrativos,63662,2910.65
+SC,Serviços Domésticos,23,1683.66
+SC,Serviços Financeiros,10369,3493.21
+SC,Serviços Profissionais,22665,3052.31
+SC,Tecnologia e Comunicação,22456,3870.29
+SC,Transporte e Armazenagem,39641,2807.64
+SC,Água e Saneamento,3410,2806.35
+SE,Administração Pública,-44,3843.43
+SE,Agropecuária,-272,2564.36
+SE,Alimentação e Hospedagem,3155,2147.78
+SE,Artes e Cultura,753,6676.65
+SE,Atividades Imobiliárias,75,2352.94
+SE,Comércio Varejista,15657,2382.67
+SE,Construção Civil,7831,4810.81
+SE,Educação,43,4380.44
+SE,Energia Elétrica e Gás,237,4395.82
+SE,Indústria Extrativa,622,5066.17
+SE,Indústria de Transformação,4434,3043.36
+SE,Não informado,-4,1648.81
+SE,Outros Serviços,322,2395.34
+SE,Saúde e Serviços Sociais,3307,3090.84
+SE,Serviços Administrativos,7921,2693.32
+SE,Serviços Domésticos,4,29895.92
+SE,Serviços Financeiros,33,3426.96
+SE,Serviços Profissionais,2461,2768.63
+SE,Tecnologia e Comunicação,2026,3142.4
+SE,Transporte e Armazenagem,136,2336.02
+SE,Água e Saneamento,-88,3241.3
+SP,Administração Pública,3404,4232.63
+SP,Agropecuária,22943,6866.05
+SP,Alimentação e Hospedagem,55436,2894.89
+SP,Artes e Cultura,15468,4544.62
+SP,Atividades Imobiliárias,8397,4288.51
+SP,Comércio Varejista,394689,5610.56
+SP,Construção Civil,237456,6115.19
+SP,Educação,34717,3977.27
+SP,Energia Elétrica e Gás,527,10261.96
+SP,Indústria Extrativa,2771,6034.47
+SP,Indústria de Transformação,290967,10708.12
+SP,Não informado,-14,2571.69
+SP,Organismos Internacionais,-7,6387.47
+SP,Outros Serviços,44184,3837.55
+SP,Saúde e Serviços Sociais,193794,3749.1
+SP,Serviços Administrativos,423074,4526.26
+SP,Serviços Domésticos,70,1943.85
+SP,Serviços Financeiros,54105,5755.61
+SP,Serviços Profissionais,133594,35734.01
+SP,Tecnologia e Comunicação,88037,5483.34
+SP,Transporte e Armazenagem,156562,4069.92
+SP,Água e Saneamento,5657,4428.05
+TO,Administração Pública,224,4409.03
+TO,Agropecuária,6068,4121.14
+TO,Alimentação e Hospedagem,2178,1693.1
+TO,Artes e Cultura,488,1893.37
+TO,Atividades Imobiliárias,273,1793.58
+TO,Comércio Varejista,7778,2625.49
+TO,Construção Civil,5019,2463.77
+TO,Educação,287,8235.27
+TO,Energia Elétrica e Gás,181,4372.82
+TO,Indústria Extrativa,1173,3835.85
+TO,Indústria de Transformação,3997,2874.19
+TO,Outros Serviços,12,2638.14
+TO,Saúde e Serviços Sociais,2655,2488.19
+TO,Serviços Administrativos,7419,2519.42
+TO,Serviços Financeiros,656,3602.24
+TO,Serviços Profissionais,2102,3077.34
+TO,Tecnologia e Comunicação,677,1947
+TO,Transporte e Armazenagem,1853,2141.01
+TO,Água e Saneamento,140,3411.29
+UF não identificada,Administração Pública,13,2011.1
+UF não identificada,Agropecuária,45027,2542.92
+UF não identificada,Alimentação e Hospedagem,7,1544.31
+UF não identificada,Artes e Cultura,6,2131.03
+UF não identificada,Atividades Imobiliárias,-21,1660.87
+UF não identificada,Comércio Varejista,43,1646.7
+UF não identificada,Construção Civil,1345,12087.2
+UF não identificada,Educação,-3,53283.56
+UF não identificada,Indústria Extrativa,-8,1854.01
+UF não identificada,Indústria de Transformação,66,1910.34
+UF não identificada,Não informado,-6,1595.03
+UF não identificada,Outros Serviços,87,2769.04
+UF não identificada,Saúde e Serviços Sociais,-190,1673.61
+UF não identificada,Serviços Administrativos,4,1851.55
+UF não identificada,Serviços Domésticos,67,1895.71
+UF não identificada,Serviços Financeiros,2,2311.72
+UF não identificada,Serviços Profissionais,7900,2389.48
+UF não identificada,Tecnologia e Comunicação,1,1718.41
+UF não identificada,Transporte e Armazenagem,33,1795.42
+UF não identificada,Água e Saneamento,1,1563.16
